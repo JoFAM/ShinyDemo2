@@ -1,0 +1,12 @@
+Package: ShinyDemo
+Type: Package
+Title: A demo for Shiny
+Version: 0.1.0
+Author: Joris Meys
+Maintainer: Joris Meys <Joris.Meys@UGent.be>
+Description: It wraps a shiny app.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: shiny, ggplot2, ggpubr, shinydashboard
+
